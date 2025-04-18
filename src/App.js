@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { FaBeer } from 'react-icons/fa';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          <FaBeer />
           Learn React
         </a>
       </header>
